@@ -76,3 +76,12 @@
   font-size: 2em;
   text-align: center;
 }
+p {
+  font-size: 14px;
+}
+
+@media all and (min-width: 800px) {
+  p {
+    font-size: 24px;
+  }
+} 
